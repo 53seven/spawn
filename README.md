@@ -1,6 +1,8 @@
 @537/spawn
 ===
 
+[![build status](https://travis-ci.org/53seven/spawn.svg)](https://travis-ci.org/53seven/spawn)
+
 
 A small promise wrapper around `child_process.spawn` so that you can `await` on command execs.
 
