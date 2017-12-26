@@ -1,0 +1,20 @@
+{
+  "name": "@537/spawn",
+  "version": "0.0.0",
+  "description": "a promise wrapper around spawn",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "preversion": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/53seven/spawn.git"
+  },
+  "author": "kiernan <kiernan@537.io> (https://537.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/53seven/spawn/issues"
+  },
+  "homepage": "https://github.com/53seven/spawn#readme"
+}
