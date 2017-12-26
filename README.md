@@ -1,6 +1,8 @@
 @537/spawn
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/53seven/spawn.svg)](https://greenkeeper.io/)
+
 [![build status](https://travis-ci.org/53seven/spawn.svg)](https://travis-ci.org/53seven/spawn)
 
 
