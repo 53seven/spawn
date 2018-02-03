@@ -2,9 +2,9 @@
 const spawn = require('child_process').spawn;
 
 
-async function spawn_async(command, args) {
+async function spawn_async(command, args, opts) {
   return new Promise((pass, fail) => {
-    const exec = spawn(command, args);
+    const exec = spawn(command, args, opts);
 
     let stdout = new Buffer('');
     let stderr = new Buffer('');
